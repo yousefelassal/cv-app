@@ -1,1 +1,3 @@
-# CV Application
+<div align="center">
+  CV Application
+</div>
